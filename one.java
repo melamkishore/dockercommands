@@ -1,5 +1,5 @@
 Docker:
-$ sudo su -               (to change to root user)
+$ sudo su -             
 
 
 This script is meant for quick & easy install via:
